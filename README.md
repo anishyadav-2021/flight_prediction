@@ -1,2 +1,2 @@
 # flight_prediction
-deployment on Heroku
+deployment on Heroku : https://flight-prediction-regression.herokuapp.com/predict
